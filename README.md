@@ -3,7 +3,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of arabesqueFonds is to  prepare basemaps files for the 
+The goal of arabesqueFonds is to  prepare basemaps files / background map sets that will be integrated in the web flow mapping application called _Arabesque_.
 
 ## Installation
 
